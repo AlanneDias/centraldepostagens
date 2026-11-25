@@ -16,6 +16,7 @@ Material para qualquer pessoa ou IA ajudar a criar e publicar posts do Studio Al
 | `dados/hashtags.json` | Hashtags gerais por tipo (site, idv, mono), em PT e EN. |
 | `dados/behance-projetos.json` | Projetos do Behance com descrição, tags e links diretos das imagens (servem de `image_url` para Pins). |
 | `dados/pinterest-pastas.json` | IDs das pastas do Pinterest. |
+| `dados/postagens-chatgpt.json` | Planejamento de posts recuperado do ChatGPT (status, legendas, pendências). |
 | `dados/pins-publicados.csv` | Registro do que já foi postado. **Acrescente uma linha a cada Pin novo.** |
 | `dados/desempenho-pinterest-90d.md` | O que funciona e o que não funciona no Pinterest, com números. |
 | `midia/sites/` | Para cada site: `-story` (9:16), `-feed` (4:5), `-pin` (2:3) e `-shot` (4:3), em `.mp4` (o site sendo usado, com interação) e `.jpg`. |
@@ -23,6 +24,19 @@ Material para qualquer pessoa ou IA ajudar a criar e publicar posts do Studio Al
 | `midia/carrosseis/` | Imagens 4:5 dos carrosséis, na ordem (`-01`, `-02`...). A capa é o `-feed.jpg` do projeto. |
 
 Códigos dos projetos: `bibilica`, `renata`, `evy`, `unora`, `salm`, `luana`, `natalia`, `legacy` (sites) · `thais`, `dayana`, `poli`, `etax`, `salmidv`, `bibidv`, `marcas` (identidade visual) · `monotat`, `monocas` (monogramas).
+
+## Várias IAs trabalham neste repositório
+
+Claude e ChatGPT (e outras IAs) contribuem aqui. Para ninguém apagar o trabalho do outro:
+
+1. **Antes de mexer, puxe a versão mais nova** (`git pull`). Leia os arquivos novos que apareceram.
+2. **Não reescreva arquivos de outra IA.** Para acrescentar, crie um arquivo seu ou adicione linhas no fim. Arquivos atuais:
+   - `dados/projetos.json`, `dados/behance-projetos.json`, `dados/hashtags.json`, `midia/`: Claude
+   - `dados/postagens-chatgpt.json`: ChatGPT (planejamento recuperado das conversas; nada ali está confirmado como publicado)
+3. **Registro de publicação único:** todo post realmente publicado entra em `dados/pins-publicados.csv` (Pinterest) com data, ID e link. Não marque nada como publicado sem conferir na rede.
+4. **Aprovação:** itens com `approval_required: true` precisam do ok da Alanne antes de postar.
+5. **Mensagem de commit** diz qual IA fez e o quê, por exemplo "ChatGPT: adiciona legendas do carrossel de sites".
+6. **Não suba senhas, tokens ou dados pessoais de clientes** (telefones, e-mails).
 
 ## Regras de estilo (decididas pela Alanne)
 

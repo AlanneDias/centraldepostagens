@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "import_date": "2026-11-25",
+  "note": "Importação parcial de registros editoriais. Não representa histórico confirmado de publicações. Mídias não incluídas.",
+  "posts": [
+    {
+      "id": "chatgpt-monogramas-behance",
+      "project": "Coleção de monogramas",
+      "platform": "Behance",
+      "category": "Casamentos",
+      "title": "Monogram Collection — The Art of Intertwined Letters",
+      "status": "em_preparacao",
+      "caption": "Mais do que iniciais, um símbolo que carrega sua história. / More than initials, a symbol that tells your story.",
+      "media_reference": "Colecao_66_Mockups_Monogramas.zip",
+      "media_count_reported": 66,
+      "tags": [
+        "Monogram",
+        "CustomMonogram",
+        "Lettermark",
+        "TattooDesign"
+      ],
+      "notes": "Montagem final e seleção de imagens pendentes; arquivo de mídia não importado.",
+      "source": "ChatGPT — conversas de novembro de 2026",
+      "approval_required": true,
+      "published": false,
+      "publication_verified": false
+    },
+    {
+      "id": "chatgpt-monogramas-instagram",
+      "project": "Coleção de monogramas",
+      "platform": "Instagram",
+      "category": "Casamentos",
+      "title": "Coleção de monogramas",
+      "caption": "Mais do que iniciais, um símbolo que carrega sua história. / More than initials, a symbol that tells your story.",
+      "tags": [
+        "Monogram",
+        "CustomMonogram",
+        "Lettermark",
+        "TattooDesign"
+      ],
+      "status": "aguardando_revisao",
+      "source": "ChatGPT — conversas de novembro de 2026",
+      "approval_required": true,
+      "published": false,
+      "publication_verified": false
+    },
+    {
+      "id": "chatgpt-sites-carrossel",
+      "project": "Benefícios de ter um site",
+      "platform": "Instagram",
+      "category": "Sites",
+      "title": "Benefícios de ter um site",
+      "format": "Carrossel de vídeos 1080 × 1350",
+      "status": "em_preparacao",
+      "topics": [
+        "Presença profissional",
+        "Credibilidade",
+        "Apresentação dos serviços",
+        "Facilidade de contato"
+      ],
+      "notes": "Sem áudio, sem contagem de slides; estética editorial.",
+      "source": "ChatGPT — conversas de novembro de 2026",
+      "approval_required": true,
+      "published": false,
+      "publication_verified": false
+    },
+    {
+      "id": "chatgpt-evy",
+      "project": "EVY",
+      "platform": "Instagram",
+      "category": "Sites",
+      "title": "Site e sistema de aluguel EVY",
+      "status": "rascunho",
+      "caption": "A EVY reúne mais de 400 peças. Com a vitrine virtual, a cliente escolhe o look, consulta a disponibilidade para a data desejada e envia o pedido. A reserva é confirmada após o pagamento. Mais praticidade para a cliente e organização para a loja.",
+      "notes": "Resumo do roteiro preparado no ChatGPT; vídeo final não importado.",
+      "source": "ChatGPT — conversas de novembro de 2026",
+      "approval_required": true,
+      "published": false,
+      "publication_verified": false
+    }
+  ]
+}

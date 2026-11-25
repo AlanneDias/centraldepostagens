@@ -1,0 +1,80 @@
+{
+ "site": {
+  "pt": [
+   "#webdesign",
+   "#sitesprofissionais",
+   "#criacaodesites",
+   "#webdesigner",
+   "#sitesobmedida",
+   "#sitesresponsivos",
+   "#identidadevisual",
+   "#empreendedorismo",
+   "#negocioonline",
+   "#designdesites"
+  ],
+  "en": [
+   "#webdesign",
+   "#websitedesign",
+   "#webdesigner",
+   "#uidesign",
+   "#uxdesign",
+   "#responsivedesign",
+   "#customwebsite",
+   "#smallbusiness",
+   "#brandidentity",
+   "#designinspiration"
+  ]
+ },
+ "idv": {
+  "pt": [
+   "#identidadevisual",
+   "#branding",
+   "#designdemarca",
+   "#logotipo",
+   "#criacaodelogo",
+   "#designgrafico",
+   "#papelaria",
+   "#marcaforte",
+   "#empreendedorismo",
+   "#designer"
+  ],
+  "en": [
+   "#brandidentity",
+   "#branding",
+   "#logodesign",
+   "#visualidentity",
+   "#graphicdesign",
+   "#brandingdesign",
+   "#logodesigner",
+   "#stationerydesign",
+   "#smallbusiness",
+   "#designinspiration"
+  ]
+ },
+ "mono": {
+  "pt": [
+   "#monograma",
+   "#monogramas",
+   "#iniciais",
+   "#lettering",
+   "#desenhoamao",
+   "#monogramapersonalizado",
+   "#tatuagemdelicada",
+   "#papelariadecasamento",
+   "#casamento",
+   "#presente"
+  ],
+  "en": [
+   "#monogram",
+   "#monogramdesign",
+   "#initials",
+   "#customlettering",
+   "#handdrawn",
+   "#custommonogram",
+   "#minimaltattoo",
+   "#weddingstationery",
+   "#wedding",
+   "#handlettering"
+  ]
+ }
+}
